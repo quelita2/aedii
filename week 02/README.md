@@ -22,6 +22,8 @@ Para isso utilizamos os arquivos pdf's disponíveis em [BaixeLivros](https://www
 |:-------------:|:-------------:|
 |![resultado de desempenho de prefixo menor](./assets/dom_casmurro_desempenho01.png)|![resultado de desempenho de prefixo maior](./assets/dom_casmurro_desempenho.png)|
 
+## Vídeo Explicativo
+Explicando o trabalho e apresentando o projeto pronto [aqui](https://youtu.be/FSSpx3Uo1TQ).
 ---
 <div align="center">
 Feito com ❤ por <a href="https://github.com/quelita2" target="_blank">Quelita Míriam </a> e <a href="https://github.com/roseliasilva" target="_blank">Rosélia Nascimento </a> 👩🏼‍💻
