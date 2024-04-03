@@ -10,7 +10,7 @@ Neste repositório, você encontrará listas explicativas sobre complexidade de 
 
 ### Exercícios das Listas
 
-Os conteúdos, abordados por meio dos notebooks, possuem desafios práticos para aplicar os conceitos de complexidade de tempo e aprimorar suas habilidades de análise de algoritmos. A seguir encontram-se os vídeos explicativos de cada lista estudada:
+Os conteúdos, abordados por meio dos notebooks, possuem desafios práticos para aplicar os conceitos de complexidade de tempo e aprimorar suas habilidades de análise de algoritmos. A seguir encontram-se os vídeos explicativos de cada lista estudada (6 minutos de vídeo):
 
 - **Lista 1:** [Assista ao vídeo aqui](https://www.loom.com/share/a6f9ddd203674f44b391ee63082b21e4?sid=4bf7563d-b505-4196-affa-7f36d73c32d8)
 - **Lista 2:** [Assista ao vídeo aqui](https://www.loom.com/share/c4709e65099a4fff9bbd577e77b9d35b?sid=e5d7db69-e005-4a2c-8f9f-455570a56b9f)
