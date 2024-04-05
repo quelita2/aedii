@@ -51,10 +51,13 @@ O DCA tem como objetivo formar profissionais capazes de projetar e desenvolver s
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Constant_time_complexity.ipynb): Complexidade de Tempo Constante.
 
 **Semana 04**
-- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/LogComplexity.pdf)  **Complexidade de Algoritmos II**: Complexidade de tempo logarítmica  
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/LogComplexity.pdf)  **Algoritmo de Complexidade II**: Complexidade de tempo logarítmico  
     - Você aprenderá: a) explicar logaritmos e complexidade logarítmica; b) aplicar o algoritmo de busca binária para encontrar elementos em listas ordenadas.
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Projeto Orientado**: Desafio de entrevista de código.
-
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Projeto Guiado**: Desafio de entrevista de código. 
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/U1T3.pdf)  **Desafios**: Complexidade de diferentes operações em Árvores de Busca Binária.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_01_closestvalue.ipynb): **Desafio 01**: Encontrar o Valor Mais Próximo.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_02_kth_largest.ipynb): **Desafio 02**: Encontrar o K-ésimo Maior Valor.
+      
 ---
 <div align="center">
   📚 DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 (2024.1 - 24M34) 🎓 <br/>
