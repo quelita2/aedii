@@ -40,9 +40,7 @@ O DCA tem como objetivo formar profissionais capazes de projetar e desenvolver s
     - [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Notations.pdf)  **Notações**: Complexidade linear, quadrática e constante.
         - Notação Big O [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb)
         - Notação Big <span>&Omega;</span> [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
-        - Notação Big <span
-
->&Theta;</span> [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
+        - Notação Big <span>&Theta;</span> [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
         - :hourglass_flowing_sand: Tempo estimado: 30min
 - Vamos Praticar (tarefa)!
     - Complexidade de Tempo de Algoritmos 
