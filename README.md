@@ -49,13 +49,24 @@ O DCA tem como objetivo formar profissionais capazes de projetar e desenvolver s
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Constant_time_complexity.ipynb): Complexidade de Tempo Constante.
 
 **Semana 04**
-- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/LogComplexity.pdf)  **Algoritmo de Complexidade II**: Complexidade de tempo logarítmico  
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/LogComplexity.pdf) **Complexidade do Algoritmo II**: Complexidade temporal logarítmica  
     - Você aprenderá: a) explicar logaritmos e complexidade logarítmica; b) aplicar o algoritmo de busca binária para encontrar elementos em listas ordenadas.
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Projeto Guiado**: Desafio de entrevista de código. 
-- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/U1T3.pdf)  **Desafios**: Complexidade de diferentes operações em Árvores de Busca Binária.
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_01_closestvalue.ipynb): **Desafio 01**: Encontrar o Valor Mais Próximo.
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_02_kth_largest.ipynb): **Desafio 02**: Encontrar o K-ésimo Maior Valor.
-      
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Projeto Orientado**: Desafio de entrevista de código.
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/U1T3.pdf) **Desafios**: Complexidade de diferentes operações em uma Árvore Binária de Busca.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_01_closestvalue.ipynb): **Desafio 01**: Encontrar Valor Mais Próximo.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_02_kth_largest.ipynb): **Desafio 02**: Encontrar o k-ésimo Maior Valor.
+
+**Semana 05**
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Week_05a.pdf) **Fundamentos de Redes I**: Estrutura, aplicações, matemática e teoria dos grafos.
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Week_05b.pdf) **Fundamentos de Redes II**: Probabilidade, grafos estendidos, matrizes, grau e representação.
+    - Definições Básicas [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/aa7b736bc2b24d599efa7b24d96edc72)
+    - Grafos Estendidos [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8646b007d7ac4aa485430a3a7c487480)
+    - Densidade, Esparsidade e Subredes [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/49175fd385d94ae58831921cd53f715c)
+    - Grau e Representação de Rede [![Abrir em Loom](https://img.shields.io/badge/-Vídeo-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcaf192f492a413984d7b183edf06ce2)
+    - :hourglass_flowing_sand: Tempo estimado: 2h
+- 🛠 **Prático**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb) Elementos de rede usando networkx 
+    - :books: Leitura adicional: capítulos 1 a 6 do livro [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)      
 ---
 <div align="center">
   📚 DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 (2024.1 - 24M34) 🎓 <br/>
