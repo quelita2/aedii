@@ -1,6 +1,6 @@
 # Complexidade das diferentes operações na Árvore de Busca Binária (BST)
 
-## Instruções de Execução
+## 🛠️ Instruções de Execução
 
 1. Certifique-se de ter Python instalado em seu sistema.
 2. Clone este repositório em sua máquina local:
@@ -19,7 +19,7 @@ cd aedii
 pytest
 ```
 
-## Challenge 01: Encontrar o valor mais próximo
+## 🎯 Challenge 01: Encontrar o valor mais próximo
 
 Este é um algoritmo Python para encontrar o valor mais próximo de um valor alvo em uma Árvore de Pesquisa Binária (BST).
 
@@ -34,7 +34,7 @@ A complexidade de tempo do algoritmo é O(h), onde h é a altura da árvore de p
 
 A complexidade de espaço é O(1), pois o algoritmo utiliza apenas uma quantidade constante de espaço adicional para armazenar variáveis locais e recursivas.
 
-## Challenge 02: Encontre o k-ésimo maior termo em uma Árvore Binária de Busca (BST)
+## 🎯 Challenge 02: Encontre o k-ésimo maior termo em uma Árvore Binária de Busca (BST)
 
 Este desafio consiste em encontrar o k-ésimo maior inteiro em uma Árvore Binária de Busca (BST).
 
