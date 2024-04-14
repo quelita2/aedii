@@ -38,7 +38,7 @@ A complexidade de espaço é O(1), pois o algoritmo utiliza apenas uma quantidad
 
 Este desafio consiste em encontrar o k-ésimo maior inteiro em uma Árvore Binária de Busca (BST).
 
-### Funcionamento do Código
+### Descrição da Solução
 
 O código utiliza uma abordagem de travessia em ordem reversa para coletar os valores dos nós da árvore em uma lista ordenada. Em seguida, ele retorna o k-ésimo maior valor dessa lista. A BST é assumida como contendo apenas valores inteiros, e valores duplicados são tratados como distintos para determinar o k-ésimo maior inteiro.
 
