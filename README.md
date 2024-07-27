@@ -66,7 +66,22 @@ O DCA tem como objetivo formar profissionais capazes de projetar e desenvolver s
     - :hourglass_flowing_sand: Tempo estimado: 2h
 - 🛠 **Prático**
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb) Elementos de rede usando networkx 
-    - :books: Leitura adicional: capítulos 1 a 6 do livro [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)      
+    - :books: Leitura adicional: capítulos 1 a 6 do livro [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)
+ 
+**Semana 06**
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/week_06.pdf) **Fundamentos de Redes I**: tópicos abordados anteriormente ...
+    - **Estudo de caso**
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_06/SDG.ipynb) Rede de Coautoria: conjunto de dados dos Objetivos de Desenvolvimento Social (ODS).
+        - Conjunto de dados: [ODS](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/SDG_9_ufrn.csv)
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/small_world.pdf) **Mundo Pequeno**: Homofilia e Assortatividade.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/assortativity.ipynb) **Prática de assortatividade**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/networkX.ipynb) **A arte de ver redes**
+
+**Semana 07**
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Small_World_II.pdf) **Continuação de Mundo Pequeno**: Caminhos, Distâncias, Componentes Conectados, Coeficiente de Agrupamento, Distância Social e Seis Graus de Separação
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Walks_Paths_and_Distances.ipynb) Caminhos, Percursos e Distâncias
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Connected_Components.ipynb) Componentes Conectados
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Clustering_Coefficient.ipynb) Coeficiente de Agrupamento  
 ---
 <div align="center">
   📚 DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 (2024.1 - 24M34) 🎓 <br/>
