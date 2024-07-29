@@ -14,9 +14,9 @@ A assortatividade mede a tendência de nós semelhantes em uma rede se conectare
 
 Abaixo estão sequências do trabalho realizado:
 
-[- Requisito 2](./Requisito_02/README.md)
+[- Requisito 2](./Requisito_02/)
 
-[- Requisito 3](./Requisito_03/README.md)
+[- Requisito 3](./Requisito_03/)
 
 ## Vídeo
 
