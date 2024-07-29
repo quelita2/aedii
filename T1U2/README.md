@@ -6,7 +6,7 @@ Neste trabalho trataremos sobre Assortatividade, Componentes Conectados e Coefic
 12 - Consumo e produção responsáveis e<br>
 16 - Paz, justiça e instituições fortes.
 
-O requisito 1 do projeto consistia em escolher 4 ODS/SDG e gerar a base de dados no formato `ods_x.csv` (onde x é o número da ODS) e filtrar apenas artigos da UFRN, através do [Scopus](https://www.scopus.com/home.uri). As ODS mencionadas acima estão com seus arquivos `.csv` disponíveis na pasta ["docs"](./docs/) deste mesmo repositório.
+O requisito 1 do projeto consistia em escolher 4 ODS/SDG e gerar a base de dados no formato `ods_x.csv` (onde x é o número da ODS) e filtrar apenas artigos da UFRN, através do [Scopus](https://www.scopus.com/home.uri). As ODS mencionadas acima estão com seus arquivos `.csv` disponíveis na pasta ["docs"](./Requisito_02/docs/) deste mesmo repositório.
 
 A partir dos estudos de Assortatividade, Componentes Conectados e Coeficiete de Agrupamento, podemos compreender padrões de colaboração, identificar comunidades de pesquisa e avaliar a interconectividade de coautoria nos artigos que envolvem os Objetivos de Desenvolvimento Sustentável da ONU citados acima. 
 
