@@ -20,7 +20,7 @@ Abaixo estão sequências do trabalho realizado:
 
 ## Vídeo
 
-- Para explicações do trabalho acesse o vídeo [aqui](https://youtu.be/5zZKt-QoFLM).
+- Para explicações do trabalho acesse o vídeo <a href="https://youtu.be/5zZKt-QoFLM" target="_blank">aqui</a>.
 
 ## ✍️ Autoras
 - [Quelita Míriam](https://github.com/quelita2) 
