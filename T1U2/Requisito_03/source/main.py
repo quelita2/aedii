@@ -4,11 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-# Função para carregar a rede a partir de um arquivo CSV
 def load_network(file_path):
     df = pd.read_csv(file_path)
-    print(f"Primeiras linhas do DataFrame de {file_path}:")
-    print(df.head())  # Verificar as primeiras linhas do DataFrame
 
     # Processar os dados para extrair arestas baseadas na coautoria
     edges = []
@@ -22,7 +19,7 @@ def load_network(file_path):
     G.add_edges_from(edges)
     return G
 
-# Função para extrair métricas da rede
+# Extrair métricas da rede
 def extract_network_metrics(G):
     num_vertices = G.number_of_nodes()
     num_edges = G.number_of_edges()
@@ -41,7 +38,6 @@ def extract_network_metrics(G):
         'avg_clustering': avg_clustering
     }
 
-# Caminhos dos arquivos CSV no Google Drive
 ods_files = {
     4: '../docs/ods_4.csv',
     6: '../docs/ods_6.csv',
@@ -64,8 +60,5 @@ metrics_df.columns = [
     'Qtd_Comp_Conectados', 'Tamanho_Comp_Gigante', 'Coef_Clustering'
 ]
 
-# Salvar as métricas em um arquivo CSV (opcional)
 metrics_df.to_csv('../docs/network_metrics.csv')
-
-# Exibir as métricas
 print(metrics_df)

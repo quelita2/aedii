@@ -24,7 +24,6 @@ As redes das ODS 4, 6, 12 e 16 apresentam características distintas em termos d
 
 As redes analisadas apresentam diferentes níveis de conectividade e coesão. As redes da ODS 6 e ODS 16 são mais conectadas e coesas, com maiores componentes gigantes e coeficientes de clustering. Já a rede da ODS 12 mostra uma menor coesão com mais componentes conectados e um menor coeficiente de clustering. Esses resultados podem refletir as diferentes características e desafios associados a cada um dos Objetivos de Desenvolvimento Sustentável analisados.
 
-
 ## ✍️ Autoras
 - [Quelita Míriam](https://github.com/quelita2) 
 - [Rosélia Nascimento](https://github.com/roseliasilva)
@@ -32,5 +31,5 @@ As redes analisadas apresentam diferentes níveis de conectividade e coesão. As
 ---
 <div align="center">
   📚 DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 (2024.1 - 24M34) 🎓 <br/>
-  Federal University of Rio Grande do Norte - Department of Computer and Automation Engineering (DCA). 🏛️
+  Universidade Federal do Rio Grande do Norte - Departamento de Computação e Automação (DCA). 🏛️
 </div>

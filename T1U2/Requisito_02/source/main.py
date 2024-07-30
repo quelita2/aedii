@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-# Função para carregar a rede a partir de um arquivo CSV
 def load_network(file_path):
     df = pd.read_csv(file_path)
 
@@ -20,11 +19,10 @@ def load_network(file_path):
     G.add_edges_from(edges)
     return G
 
-# Função para calcular a assortatividade de grau
 def calculate_assortativity(G):
     return nx.degree_assortativity_coefficient(G)
 
-# Função para plotar a relação entre o grau dos nós e o grau médio dos seus vizinhos
+# Plotar a relação entre o grau dos nós e o grau médio dos seus vizinhos
 def plot_degree_correlation(G, title, ax):
     degree = dict(G.degree())
     avg_neighbor_degree = nx.average_neighbor_degree(G)
@@ -45,7 +43,6 @@ def plot_degree_correlation(G, title, ax):
     ax.set_title(f"{title}\nAssortatividade: {calculate_assortativity(G):.2f}")
     ax.grid(True)
 
-# Caminhos dos arquivos CSV no Google Drive
 ods_files = {
     4: '../docs/ods_4.csv',
     6: '../docs/ods_6.csv',

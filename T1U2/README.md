@@ -1,6 +1,6 @@
 # Trabalho de AED2 - Unidade 2
 
-Neste trabalho trataremos sobre Assortatividade, Componentes Conectados e Coeficiente de Agrupamento investigando redes de Co-Autoria e ODS-ONU, em específico das ODS's: 
+Neste trabalho, trataremos sobre Assortatividade, Componentes Conectados e Coeficiente de Agrupamento investigando redes de Co-Autoria e ODS-ONU, em específico das ODS's: 
 > 4 - Educação de qualidade <br>
 6 - Água lima e saneamento<br>
 12 - Consumo e produção responsáveis e<br>
@@ -8,7 +8,7 @@ Neste trabalho trataremos sobre Assortatividade, Componentes Conectados e Coefic
 
 O requisito 1 do projeto consistia em escolher 4 ODS/SDG e gerar a base de dados no formato `ods_x.csv` (onde x é o número da ODS) e filtrar apenas artigos da UFRN, através do [Scopus](https://www.scopus.com/home.uri). As ODS mencionadas acima estão com seus arquivos `.csv` disponíveis na pasta ["docs"](./Requisito_02/docs/) deste mesmo repositório.
 
-A partir dos estudos de Assortatividade, Componentes Conectados e Coeficiete de Agrupamento, podemos compreender padrões de colaboração, identificar comunidades de pesquisa e avaliar a interconectividade de coautoria nos artigos que envolvem os Objetivos de Desenvolvimento Sustentável da ONU citados acima. 
+A partir desses estudos, podemos compreender padrões de colaboração, identificar comunidades de pesquisa e avaliar a interconectividade de coautoria nos artigos que envolvem os Objetivos de Desenvolvimento Sustentável da ONU citados acima. 
 
 A assortatividade mede a tendência de nós semelhantes em uma rede se conectarem, e é importante para entender a homofilia em redes sociais. Componentes conectados são subconjuntos onde todos os nós estão interligados, essenciais para identificar clusters ou grupos isolados. O coeficiente de agrupamento mede a probabilidade de que os vizinhos de um nó estejam conectados entre si, crucial para analisar a formação de comunidades e a densidade de triângulos em redes sociais. 
 
@@ -20,7 +20,7 @@ Abaixo estão sequências do trabalho realizado:
 
 ## Vídeo
 
-- Para explicações do trabalho acesse o vídeo <a href="https://youtu.be/5zZKt-QoFLM" target="_blank">aqui</a>.
+- Para nossas explicações do trabalho acesse nosso vídeo <a href="https://youtu.be/5zZKt-QoFLM" target="_blank">aqui</a>.
 
 ## ✍️ Autoras
 - [Quelita Míriam](https://github.com/quelita2) 

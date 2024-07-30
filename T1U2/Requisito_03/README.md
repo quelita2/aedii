@@ -23,4 +23,14 @@ A rede ODS 12, com 80 vértices e 120 arestas, é a menor das quatro. Seu coefic
 
 Por fim, a rede ODS 16 é a maior, com 200 vértices e 400 arestas. O coeficiente de assortatividade de 0.10 mostra uma leve tendência de conectividade entre nós de graus semelhantes. Esta rede possui apenas 2 componentes conectados, com o maior composto por 180 vértices, indicando uma rede muito coesa. O coeficiente de clustering de 0.35, o mais alto entre as redes, indica um alto nível de agrupamento.
 
-Por fim, as redes ODS 4 e ODS 6 mostram uma boa coesão e conectividade, enquanto a ODS 12 apresenta menor coesão e um nível de agrupamento mais baixo. A ODS 16 é a maior e mais coesa, com o mais alto coeficiente de clustering, indicando um nível significativo de agrupamento entre seus nós. 
+Em geral, entende-se que as redes ODS 4 e ODS 6 mostram uma boa coesão e conectividade, enquanto a ODS 12 apresenta menor coesão e um nível de agrupamento mais baixo. A ODS 16 é a maior e mais coesa, com o mais alto coeficiente de clustering, indicando um nível significativo de agrupamento entre seus nós. 
+
+## ✍️ Autoras
+- [Quelita Míriam](https://github.com/quelita2) 
+- [Rosélia Nascimento](https://github.com/roseliasilva)
+
+---
+<div align="center">
+  📚 DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 (2024.1 - 24M34) 🎓 <br/>
+  Universidade Federal do Rio Grande do Norte - Departamento de Computação e Automação (DCA). 🏛️
+</div>
