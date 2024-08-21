@@ -63,6 +63,12 @@ O **k-core** representa o núcleo da rede, formado pelos nós que possuem pelo m
 
 A rede construída está em produção no seguinte endereço [Wikipedia Network](https://quelita2.github.io/aedii/)
 
+## Vídeo
+
+[Parte I](https://www.loom.com/share/44d9555a9b4149fabbd657fb684c4618?sid=2f489fbf-0cfd-4215-9268-be48c0e66ab2) 
+
+[Parte II](https://www.loom.com/share/bca273d9a7f745ea9e16048f72aee521?sid=1af593c0-439a-4e9b-a91c-4e8658a8a793)
+
 ## ✍️ Autora
 - [Quelita Míriam](https://github.com/quelita2) 
 
